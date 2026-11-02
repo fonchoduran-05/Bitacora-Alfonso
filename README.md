@@ -9,4 +9,4 @@ Bitacora de Introduccion a la ciencia de datos.
 
 Para correrlo abrir Bit-acora-Alfonso.Rproj.
 
-Uso de IA: se uso un asistente de IA solo para ordenar carpetas, corregir rutas los scripts y redactar este README.
+Uso de IA: se uso un asistente de IA solo para ordenar carpetas, corregir rutas en los scripts y redactar este README.
